@@ -5,7 +5,27 @@
 **Mandate:** A focused investment framework for Physical AI — robotics, embodied AI, autonomous physical systems, and industrial automation — over the next 5–10 years.
 **Scope discipline:** This is not a datacenter AI report. GPUs, HBM, CoWoS, optical interconnects, and hyperscaler capex are only referenced where they materially affect physical machines that move, manipulate, inspect, or defend in the real world.
 
-**Data caveat:** Financial figures (market caps, revenue, segment splits, margins) are best-effort and reflect roughly FY2024–FY2025 reporting unless otherwise noted. Every number that is materially uncertain is flagged with "approx." Always verify against the most recent 10-K, 20-F, or interim report before acting.
+**Data caveat:** Financial figures (market caps, revenue, segment splits, margins) reflect Q1/Q2 calendar 2026 reporting where available. Approximate where labeled. Always verify against the most recent 10-K, 20-F, or interim report before acting.
+
+---
+
+## Update Note — Material 2025/2026 Developments Affecting This Thesis
+
+Five corporate actions have meaningfully reshaped the Physical AI public-equity landscape since the original framework was drafted. All are reflected in the data and portfolio below:
+
+1. **ABB is divesting its Robotics division to SoftBank for $5.375B EV** (announced Oct 2025; close expected mid-to-late 2026). The unit generated ~$2.3B in 2024 revenue at 12.1% operational EBITA margin. ABB-without-robotics is still a top-3 industrial automation incumbent (drives, motion, electrification, process), but the public-market exposure to industrial-robot OEM economics through ABB is going away. The robotics ownership transfers to SoftBank — adding to its Physical-AI portfolio alongside its Vision Fund robotics positions and its OpenAI stake.
+
+2. **Honeywell is selling its Warehouse and Workflow Solutions business (Intelligrated) to American Industrial Partners** (announced 2026; close expected 2H 2026). Intelligrated generated ~$935M in 2025 revenue. The Physical AI thesis for owning HON evaporates — HON becomes a pure diversified industrial. **HON is therefore removed from this portfolio.**
+
+3. **Symbotic acquired Walmart's Advanced Systems and Robotics business** (closed Jan 28, 2025) for $200M cash + up to $350M in contingent payments, alongside a $520M Walmart-funded development program and a commitment from Walmart to deploy systems at 400 Accelerated Pickup and Delivery (APD) centers. Symbotic's backlog moved to ~$22.3B; market cap roughly doubled to ~$30B. The Walmart-concentration framing changes from "single customer risk" to "deep strategic partnership with multi-year, contractually committed deployment cadence" — still concentrated, but materially de-risked relative to a year ago.
+
+4. **AeroVironment closed the BlueHalo merger** (closed May 1, 2025; $3.48B). AVAV is now a ~$10B mcap defense-autonomy platform spanning small UAS, counter-UAS, directed energy, and space. Revenue is running at 2.5–3x prior trajectory. Goodwill/amortization is causing reported losses; underlying franchise expansion is real.
+
+5. **Axon's Q1 2026 counter-drone revenue grew >300% YoY; AI products grew >700%.** Axon is no longer reasonably classified as "Tasers + body cams" — counter-UAS is now a meaningful and rapidly compounding line. Axon graduates from "police adjacent" to "public-safety autonomy" within the framework, but stays in the middle sleeve given the diversified base.
+
+**Other notable shifts:**
+- **MPWR's growth is increasingly datacenter-AI-driven** (Enterprise Data +97.7% YoY in Q1 2026). It remains a power-management leader, but the marginal dollar of MPWR revenue today buys more datacenter exposure than robotics exposure. Flagged in the correlation/risk section.
+- **Kratos has scaled** to a ~$10B market cap with 2026 revenue guidance of $1.7–1.76B and a $2B backlog. It is still a satellite for program-cycle-risk reasons but is no longer a sub-scale name.
 
 ---
 
@@ -174,9 +194,9 @@ These terms are conflated routinely. The distinctions matter for capital allocat
 
 **Ten-year unlock:** Lights-out micro-fulfillment in dense urban markets.
 
-**First public beneficiaries:** Symbotic (SYM) — but with extreme customer concentration to Walmart. Zebra (ZBRA), Honeywell (Intelligrated), Kion (KGX.DE)/Dematic, AutoStore (AUTO.OL). **AutoStore is the cleanest non-US warehouse-robotics pure-play.**
+**First public beneficiaries:** Symbotic (SYM) — Walmart-concentrated but now backed by a deep multi-year partnership including the Jan-2025 Walmart Robotics acquisition and 400-APD deployment commitment funded with $520M; Daifuku (DAIFY) — the largest global pure-play; Zebra (ZBRA); Kion (KGX.DE) / Dematic; AutoStore (AUTO.OL). **Honeywell exits this category in 2H 2026 as Intelligrated is sold to AIP — share will redistribute to Daifuku, Kion, and Symbotic.**
 
-**Probably overhyped:** Symbotic at peak multiples (the Walmart relationship is also the ceiling); pure-play AMR vendors with subscale fleets.
+**Probably overhyped:** Symbotic if Walmart APD cadence slows; pure-play AMR vendors with subscale fleets.
 
 #### Industrial cobots
 **Problem solved:** Robots that work alongside humans without fencing — used for assembly, machine tending, pick-and-place, palletizing. The fastest-growing slice of industrial robotics.
@@ -238,10 +258,10 @@ The structural question for every Physical AI layer is the same: **what is the s
 
 ## 5. Public Equity Universe — Categorized
 
-Tickers below are organized by primary subsector. (Ticker, name, primary listing, approx. mkt cap, where it lives in the stack.) All figures approximate, late-2024 to FY2025 reporting.
+Tickers below are organized by primary subsector. (Ticker, name, primary listing, approx. mkt cap as of May 2026, where it lives in the stack.) Market caps are point-in-time snapshots and move daily; revenue references are trailing-twelve-month (TTM) or most recently reported.
 
 ### 5.1 Robot brain / foundation models / simulation
-- **NVDA** — NVIDIA — US — ~$3T+ — Jetson, Isaac, GR00T, Cosmos, Omniverse. The dominant exposure.
+- **NVDA** — NVIDIA — US — ~$5.4T — Jetson, Isaac, GR00T, Cosmos, Omniverse. FY26 (Jan 2026) revenue $215.9B; Q1 FY27 revenue $81.6B (+85% YoY). Datacenter dwarfs robotics — but Isaac/Jetson is the dominant public-equity Physical-AI software exposure.
 - **DASTY / DSY.PA** — Dassault Systèmes — France — ~$40B — DELMIA/SIMULIA digital twin.
 - **PTC** — PTC Inc. — US — ~$20B — ThingWorx/Onshape/Vuforia.
 - **HXGBY / HEXA-B.ST** — Hexagon AB — Sweden — ~$25B — Sensors, software, autonomous mining.
@@ -251,7 +271,7 @@ Tickers below are organized by primary subsector. (Ticker, name, primary listing
 - **NVDA** — Jetson Orin/Thor.
 - **QCOM** — Qualcomm — US — ~$180B — Robotics RB platform; auto Snapdragon Ride.
 - **AMBA** — Ambarella — US — ~$2B — CVflow vision SoCs for cameras/drones.
-- **NXPI** — NXP — Netherlands — ~$55B — Auto + industrial MCUs, S32 platform.
+- **NXPI** — NXP — Netherlands — ~$78B — TTM revenue $12.3B (modest YoY decline from auto destocking). Auto + industrial MCUs, S32 platform.
 - **STM** — STMicroelectronics — France/Italy — ~$25B — MCUs, drivers, IMUs.
 - **MCHP** — Microchip — US — ~$30B — Industrial MCUs.
 - **TXN** — Texas Instruments — US — ~$170B — Analog, MCUs, TDA4 robotics platform.
@@ -259,11 +279,11 @@ Tickers below are organized by primary subsector. (Ticker, name, primary listing
 - **IFNNY / IFX.DE** — Infineon — Germany — ~$45B — Power, sensors, MCUs, safety.
 
 ### 5.3 Sensing & perception
-- **CGNX** — Cognex — US — ~$6B — Pure-play machine vision.
+- **CGNX** — Cognex — US — ~$11B — Pure-play machine vision. Q1 2026 revenue $268M (+24% YoY); adj. EBITDA margin 26.9% (seventh consecutive quarter of margin expansion); ~$622M cash, no debt.
 - **KYCCF / 6861.T** — Keyence — Japan — ~$140B — Best-in-class machine vision/sensing; premium multiple.
-- **ADI** — Analog Devices — US — ~$110B — MEMS IMU, sensing analog.
+- **ADI** — Analog Devices — US — ~$140B — TTM revenue $11.8B (+26% YoY). MEMS IMU, sensing analog, mixed-signal motor control.
 - **TDK / 6762.T** — TDK Corp — Japan — ~$25B — InvenSense IMUs.
-- **HSAI** — Hesai — China/US-listed — ~$1B — Lidar.
+- **HSAI** — Hesai — China/US-listed — ~$3–5B — Q1 2026 revenue $98.7M (+30%), 471K lidar units shipped (+141%); Mercedes L3 supplier; FY26 guidance 3–3.5M units. Best-positioned lidar pure-play.
 - **OUST** — Ouster — US — ~$700M — Lidar.
 - **INVZ** — Innoviz — Israel — small cap — Lidar.
 - **LAZR** — Luminar — US — small cap — Lidar (struggling).
@@ -280,49 +300,49 @@ Tickers below are organized by primary subsector. (Ticker, name, primary listing
 - **PH** — Parker Hannifin — US — ~$80B — Motion and control conglomerate (hydraulics, electromechanical).
 
 ### 5.5 Industrial automation incumbents
-- **SIEGY / SIE.DE** — Siemens — Germany — ~$170B — Simatic, SINUMERIK, Xcelerator.
-- **ABBNY / ABBN.SW** — ABB — Switzerland — ~$110B — Robotics, drives, motion, process automation.
-- **ROK** — Rockwell Automation — US — ~$30B — Logix, PLCs, FactoryTalk.
-- **SBGSY / SU.PA** — Schneider Electric — France — ~$130B — AVEVA software, EcoStruxure, motion.
+- **SIEGY / SIE.DE** — Siemens — Germany — ~$210B — FY26 outlook 6–8% revenue growth; Digital Industries software +14% YoY. Simatic, SINUMERIK, Xcelerator.
+- **ABBNY / ABBN.SW** — ABB — Switzerland — ~$187B — TTM revenue $34.0B (+3.4%). **Robotics division being divested to SoftBank for $5.375B EV (close mid-late 2026).** Post-divestiture: drives, motion, electrification, process automation.
+- **ROK** — Rockwell Automation — US — ~$50B — TTM revenue $8.8B (+21% YoY) — sharp acceleration vs FY25 (+1%). Logix, PLCs, FactoryTalk.
+- **SBGSY / SU.PA** — Schneider Electric — France — ~$180B — TTM revenue ~$47B. AVEVA software, EcoStruxure, motion.
 - **OMRNY / 6645.T** — Omron — Japan — ~$15B — Industrial automation, sensing, safety.
 - **MIELY / 6503.T** — Mitsubishi Electric — Japan — ~$45B — FA, drives, MELSEC PLCs.
 - **EMR** — Emerson — US — ~$70B — Process automation (post-Test&Measurement spin to Veralto/AMETEK).
 - **FTV** — Fortive — US — ~$25B — T&M, sensors (Tektronix, Fluke).
 - **DOV** — Dover — US — ~$25B — Industrial conglomerate.
-- **HON** — Honeywell — US — ~$140B — Intelligrated, process, Forge software.
+- **HON** — Honeywell — US — ~$140B — **Selling Intelligrated (Warehouse and Workflow Solutions, ~$935M 2025 revenue) to American Industrial Partners, close 2H26.** Remaining HON is diversified industrial, not a Physical-AI thesis.
 
 ### 5.6 Safety / validation / cybersecurity
 - (Pilz, Sick, TÜV, UL all private.) Publicly: **ABB, ROK, Siemens, OMRNY, Schneider** (safety divisions); **IFNNY, NXPI, STM, RNECY** (functional safety silicon); **PANW, CRWD** (OT cyber partnerships, not pure plays).
 
 ### 5.7 Test & measurement
-- **KEYS** — Keysight — US — ~$30B — Autonomous systems test, RF, EV, semis.
-- **TER** — Teradyne — US — ~$20B — Semi test + Universal Robots (cobots) + MiR (AMRs).
+- **KEYS** — Keysight — US — ~$30B — Q2 FY26 revenue $1.72B (+~29% YoY); raised FY26 guidance; record orders/EPS/FCF. Autonomous systems test, RF, EV, semis.
+- **TER** — Teradyne — US — ~$58B — TTM revenue ~$3.4B; Q1 2026 ~$1.08B. Robotics segment (UR + MiR) only ~10% of revenue but growing.
 - **CGNX** — Cognex — also a metrology play.
 - **FTV** — Fortive — broad T&M.
 - **ANSS** — ANSYS — now part of SNPS (Synopsys).
 - **NATL / NATI** — formerly National Instruments, now Emerson-owned (delisted).
 
 ### 5.8 Robotics OEMs (industrial / cobot / AMR / warehouse / surgical / drones)
-- **FANUY / 6954.T** — Fanuc — Japan — ~$40B — Industrial robots, CNC, factory automation.
-- **YASKY / 6506.T** — Yaskawa — Japan — ~$10B — Servomotors, drives, robotics.
-- **ABBNY** — ABB — also robot OEM.
-- **TER** — Teradyne — UR (cobots) + MiR (AMRs) inside ATE shell.
-- **SYM** — Symbotic — US — ~$15B (volatile) — Warehouse automation, heavy Walmart concentration.
+- **FANUY / 6954.T** — Fanuc — Japan — ~$45B (¥7.2T) — FY26 revenue ¥857.8B (~$5.4B, +7.6%); EBITDA margin 26%; net cash. Industrial robots, CNC, factory automation.
+- **YASKY / 6506.T** — Yaskawa — Japan — ~$9B — FY26 revenue ¥537B (~$3.6B, -6.6% YoY) with FY27 guidance +27% op profit. Servomotors, drives, robotics. Currently in cycle trough.
+- **ABBNY** — ABB — robotics divestiture to SoftBank in progress (see 5.5).
+- **TER** — Teradyne — UR + MiR Q1 2026 robotics revenue $91M (+32% YoY).
+- **SYM** — Symbotic — US — ~$30B — Q2 FY26 revenue $676M (+23% YoY); $22.3B backlog; acquired Walmart Robotics Jan 2025; Walmart now committed to 400 APD deployments funded with $520M development program. Concentrated but contractually deeper.
 - **AUTO.OL** — AutoStore — Norway — ~$3B — Cube-storage AS/RS.
-- **KGX.DE** — Kion Group — Germany — ~$5B — Forklifts + Dematic (warehouse).
-- **6383.T** — Daifuku — Japan — ~$10B — Material handling.
-- **ZBRA** — Zebra Technologies — US — ~$15B — Scanning, RFID, mobile computing.
-- **HON** — Honeywell — also Intelligrated.
-- **ISRG** — Intuitive Surgical — US — ~$160B — Surgical robotics monopoly.
+- **KGX.DE / KIGRY** — Kion Group — Germany — ~$5B — Forklifts + Dematic (warehouse).
+- **DAIFY / 6383.T** — Daifuku — Japan — ~$10B — Largest pure-play material-handling/warehouse-automation vendor globally; Honeywell-Intelligrated-divestiture beneficiary.
+- **ZBRA** — Zebra Technologies — US — ~$12B — TTM revenue $5.6B; Q1 2026 $1.50B; FY26 guidance raised to 10–14% growth. Scanning, RFID, mobile computing.
+- **HON** — Honeywell — Intelligrated being sold (see 5.5).
+- **ISRG** — Intuitive Surgical — US — ~$159B — TTM revenue $10.58B (+21% YoY); Q1 2026 $2.77B. Surgical robotics monopoly.
 - **SYK** — Stryker — US — ~$140B — Mako orthopedic.
 - **MDT** — Medtronic — US — ~$110B — Hugo + Mazor + adjacencies.
 - **GMED** — Globus Medical — US — ~$10B — Spine robotics.
-- **AVAV** — AeroVironment — US — ~$5B — Switchblade, JUMP 20, Puma.
-- **KTOS** — Kratos — US — ~$3B — XQ-58 Valkyrie, target drones.
+- **AVAV** — AeroVironment — US — ~$10B — Closed BlueHalo merger May 2025 ($3.48B); 9-mo FY26 revenue $1.34B (+~150%); reported net loss from amortization. Now small UAS + counter-UAS + directed energy + space.
+- **KTOS** — Kratos — US — ~$10B — 2026 revenue guidance $1.7–1.76B; $2B backlog; Valkyrie production scaling to ~40/yr by early 2028.
 - **454910.KS** — Doosan Robotics — Korea — cobots.
 
 ### 5.9 Power management
-- **MPWR** — Monolithic Power — US — ~$25B — Mixed-signal power management.
+- **MPWR** — Monolithic Power — US — ~$75B — Q1 2026 revenue $804M (+26%); growth dominated by Enterprise Data (datacenter) +98% YoY. Increasingly a datacenter-AI proxy in addition to motor/power.
 - **ADI** — Analog Devices — also motor + power.
 - **TXN** — Texas Instruments — power, analog, motor.
 - **IFNNY** — Infineon — power, SiC.
@@ -343,8 +363,8 @@ Tickers below are organized by primary subsector. (Ticker, name, primary listing
 - **RTX** — RTX Corp — ~$160B — Multiple programs, missiles.
 - **GD** — General Dynamics — ~$80B — Robotics, autonomous ships.
 - **NOC** — Northrop Grumman — ~$70B — UAVs, autonomy.
-- **PLTR** — Palantir — ~$60–120B (volatile) — Defense + industrial autonomy software (Maven, Lattice partnerships).
-- **AXON** — Axon — US — ~$30B — Tasers, drones (Sky-Hero), body cams.
+- **PLTR** — Palantir — ~$200B+ (volatile) — Defense + industrial autonomy software (Maven, Lattice partnerships).
+- **AXON** — Axon — US — ~$60–75B — Q1 2026 revenue $807M (+34%); counter-drone revenue +>300% YoY; AI products +>700% YoY. FY26 guidance raised to 30–32% growth. Tasers + body cams + Sky-Hero counter-UAS + Dedrone.
 
 ---
 
@@ -437,13 +457,13 @@ One table per subsector, per mandate.
 | Field | Detail |
 |---|---|
 | Bottleneck | Installed base + fieldbus + integrator network |
-| Best public expression | **SIEGY** + **ABBNY** |
-| Second-best | **ROK**, **Schneider** (SBGSY/SU.PA) |
+| Best public expression | **SIEGY** + **ABBNY** (note: ABB Robotics is being divested to SoftBank — ABB thesis is now pure industrial automation, not robot-OEM) |
+| Second-best | **ROK** (TTM growth re-accelerated to +21%), **Schneider** (SBGSY/SU.PA) |
 | Trap stock | Pure "smart factory ETF" exposure over individual names |
 | Underappreciated | **OMRNY** (Omron) — Japan-listed, undervalued |
 | Private to watch | Beckhoff, Bosch Rexroth, Pilz |
 | 5-year outlook | EV/battery wave + reshoring drives capex |
-| 10-year outlook | India + ASEAN automation wave; PLC -> edge convergence; software margin expansion |
+| 10-year outlook | India + ASEAN automation wave; PLC → edge convergence; software margin expansion |
 | Rating | **OVERWEIGHT** — backbone of the portfolio |
 
 ### 7.6 Safety / validation
@@ -528,14 +548,14 @@ One table per subsector, per mandate.
 | Field | Detail |
 |---|---|
 | Bottleneck | Customer relationships + WMS integration + reliability at peak |
-| Best public expression | **SYM** with caveats; **AUTO.OL**, **KGX.DE** |
-| Second-best | **ZBRA**, **HON** (Intelligrated), **6383.T** (Daifuku) |
-| Trap stock | SYM if Walmart relationship rerates negatively |
-| Underappreciated | **KGX.DE** (Kion) — Dematic franchise plus forklift base |
-| Private to watch | Geek+, Locus, Exotec |
-| 5-year outlook | Continued double-digit growth in DC automation |
+| Best public expression | **DAIFY** (Daifuku) — purest global pure-play; **SYM** with caveats; **AUTO.OL** |
+| Second-best | **ZBRA**, **KGX.DE** (Kion / Dematic) |
+| Trap stock | SYM if Walmart APD cadence slows; subscale AMR vendors |
+| Underappreciated | **KGX.DE** (Kion) — Dematic franchise plus forklift base; **DAIFY** itself, especially as HON-Intelligrated demand reshuffles to public-market vendors |
+| Private to watch | Geek+, Locus, Exotec; AIP-owned Intelligrated post-2H26 |
+| 5-year outlook | Continued double-digit growth in DC automation; HON-Intelligrated divestiture redistributes share to public pure-plays |
 | 10-year outlook | Lights-out micro-fulfillment in dense markets |
-| Rating | **OVERWEIGHT** — via Symbotic (satellite) + Zebra (middle) |
+| Rating | **OVERWEIGHT** — via DAIFY (middle), ZBRA (middle), SYM (satellite) |
 
 ### 7.13 Power management
 | Field | Detail |
@@ -562,11 +582,13 @@ Each mansion candidate is scored 1–10 on ten dimensions. **Higher is better** 
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **ISRG** | 10 | 8 | 10 | 9 | 8 | 9 | 4 | 7 | 10 | 10 | **85** |
 | **NVDA** | 10 | 7 | 9 | 10 | 10 | 5 | 3 | 4 | 10 | 9 | **77** |
-| **ABBNY** (ABB) | 8 | 9 | 8 | 7 | 7 | 5 | 7 | 6 | 8 | 9 | **74** |
+| **ABBNY** (ABB) † | 8 | 7 | 8 | 7 | 7 | 5 | 7 | 6 | 9 | 8 | **72** |
 | **SIEGY** (Siemens) | 9 | 9 | 8 | 8 | 7 | 5 | 8 | 5 | 8 | 10 | **77** |
 | **KEYS** | 8 | 7 | 7 | 7 | 6 | 5 | 7 | 6 | 8 | 8 | **69** |
 | **CGNX** | 9 | 10 | 6 | 7 | 8 | 3 | 5 | 6 | 9 | 9 | **72** |
 | **FANUY** | 9 | 10 | 6 | 7 | 9 | 3 | 7 | 5 | 10 | 9 | **75** |
+
+*†* ABB's Direct PAI relevance and 2030 relevance both step down after the pending SoftBank Robotics divestiture; balance-sheet score steps up given $5.3B net cash proceeds. The franchise remains a top-tier industrial automation incumbent without robot-OEM exposure.
 
 ### 8.2 Rejected mansion candidates (and rationale)
 
@@ -579,7 +601,7 @@ Each mansion candidate is scored 1–10 on ten dimensions. **Higher is better** 
 | **SYM (Symbotic)** | Severe customer concentration to Walmart; execution risk on backlog conversion. Belongs in satellite, not mansion. |
 | **IRBT** | Structurally broken consumer robotics; not a Physical AI mansion. |
 | **ROK** | Solid franchise but US-focused with limited Asia growth; mid-cap industrial cyclicality outweighs durable-monopoly status — middle sleeve instead. |
-| **HON** | Diversified conglomerate; Physical AI exposure (Intelligrated) is <10% of revenue — middle sleeve. |
+| **HON** | **Removed entirely** after 2026 announcement that Intelligrated (Warehouse and Workflow Solutions, ~$935M 2025 revenue) is being sold to American Industrial Partners (close 2H26). Post-divestiture HON has no Physical AI thesis. Replaced in middle sleeve by **DAIFY** (Daifuku). |
 | **EMR** | Post-Test&Measurement spin focuses on process, not Physical AI proper. |
 | **DOV** | Industrial conglomerate with too little direct Physical AI exposure to justify mansion. |
 | **DE** | Real autonomy exposure but agricultural cycle dominates near-term — middle/satellite. |
@@ -623,7 +645,7 @@ Three variants, per the user's mandate.
 | **AXON** | Axon Enterprise | Middle | Defense / public-safety autonomy | $15,000 | 3.0% | Tasers, drones (Sky-Hero), body cams; closest to "consumer defense autonomy" | Medium |
 | **NXPI** | NXP Semiconductors | Middle | Embedded compute | $15,000 | 3.0% | Auto + industrial MCUs; S32 platform | Medium-High (auto cycle, China) |
 | **ZBRA** | Zebra Technologies | Middle | Warehouse / logistics | $11,000 | 2.2% | Scanning, RFID, AMR adjacency | Medium-High |
-| **HON** | Honeywell | Middle | Warehouse + industrial | $10,000 | 2.0% | Intelligrated, broad industrial exposure | Low-Medium |
+| **DAIFY** | Daifuku | Middle | Warehouse / logistics | $10,000 | 2.0% | Largest pure-play material-handling / warehouse-automation vendor globally; beneficiary of HON-Intelligrated divestiture | Medium-High |
 | **SYM** | Symbotic | Satellite | Warehouse automation | $7,000 | 1.4% | Pure-play DC automation; high concentration risk to Walmart | High |
 | **AVAV** | AeroVironment | Satellite | Defense autonomy | $6,000 | 1.2% | Switchblade/JUMP 20; small-drone pure-play | High |
 | **ALGM** | Allegro MicroSystems | Satellite | Motion / sensing | $5,000 | 1.0% | Magnetic sensing + motor driver ICs; every actuator | Medium-High |
@@ -662,7 +684,7 @@ Three variants, per the user's mandate.
 | AXON | Middle | -$1K | $14,000 | 2.8% |
 | NXPI | Middle | -$3K | $12,000 | 2.4% |
 | ZBRA | Middle | unchanged | $11,000 | 2.2% |
-| HON | Middle | unchanged | $10,000 | 2.0% |
+| DAIFY | Middle | replaces HON | $10,000 | 2.0% |
 | SYM | Satellite | +$1K | $8,000 | 1.6% |
 | AVAV | Satellite | +$2K | $8,000 | 1.6% |
 | ALGM | Satellite | +$2K | $7,000 | 1.4% |
@@ -694,7 +716,7 @@ Constraints: Mansion $305K (7 pos), Middle $105K (8 pos), Satellite $50K (8 pos 
 | AXON | Middle | -$2K | $13,000 | 2.6% |
 | NXPI | Middle | -$3K | $12,000 | 2.4% |
 | ZBRA | Middle | unchanged | $11,000 | 2.2% |
-| HON | Middle | unchanged | $10,000 | 2.0% |
+| DAIFY | Middle | replaces HON | $10,000 | 2.0% |
 | SYM | Satellite | -$2K | $5,000 | 1.0% |
 | AVAV | Satellite | -$2K | $4,000 | 0.8% |
 | ALGM | Satellite | -$1K | $4,000 | 0.8% |
@@ -721,7 +743,7 @@ Constraints: Mansion $304K (7 pos), Middle $115K (8 pos), Satellite $21K (5 pos 
 | Power management | $15,000 | 3.0% | MPWR |
 | Embedded compute (non-NVDA) | $15,000 | 3.0% | NXPI |
 | Defense / public-safety autonomy | $25,000 | 5.0% | AXON, AVAV, KTOS |
-| Warehouse / logistics | $28,000 | 5.6% | ZBRA, HON, SYM |
+| Warehouse / logistics | $28,000 | 5.6% | ZBRA, DAIFY, SYM |
 | Motion / actuation (silicon) | $5,000 | 1.0% | ALGM |
 | Last-mile / consumer autonomy | $3,000 | 0.6% | SERV |
 | Cash | $50,000 | 10.0% | — |
@@ -752,7 +774,9 @@ The portfolio looks diversified by subsector but contains several correlated ris
 EV/battery and semis capex have been the largest swing drivers for ABBNY, SIEGY, FANUY, KEYS, CGNX, ROK, MPWR. A simultaneous EV downcycle + semis trough (we saw this in 2023–24) would drawdown a meaningful slice of the portfolio in lockstep.
 
 ### 11.4 Datacenter AI correlation
-NVDA is by far the largest datacenter-AI-correlated position (~10%). The mandate is to *not* run a datacenter AI portfolio — and the portfolio does not — but NVDA cannot be excluded without abandoning the dominant robotics-software thesis. If datacenter AI cycle peaks, expect mark-to-market drawdown on NVDA disconnected from the robotics fundamentals.
+NVDA is by far the largest datacenter-AI-correlated position (~10%). The mandate is to *not* run a datacenter AI portfolio — and the portfolio does not — but NVDA cannot be excluded without abandoning the dominant robotics-software thesis. If the datacenter AI cycle peaks, expect mark-to-market drawdown on NVDA disconnected from the robotics fundamentals.
+
+**Hidden datacenter exposure (MPWR):** As of Q1 2026, MPWR's Enterprise Data segment is growing +98% YoY and dominates the company's incremental revenue mix. MPWR is therefore now a *partial* datacenter-AI proxy in addition to its motor/power Physical AI role. If you already own NVDA, the MPWR position adds incremental datacenter-AI correlation beyond what the subsector label suggests. The position size (3% of book) keeps this manageable, but it is worth knowing.
 
 ### 11.5 Robot hype cycle risk
 **Affected:** SYM, HSAI, AVAV, KTOS, SERV, NVDA (partial), Cognex (partial), Symbotic (heavily).
@@ -787,7 +811,7 @@ Concrete things to watch for that would falsify the Physical AI investment thesi
 
 6. **Surgical-robot competition intensifies materially.** If Medtronic Hugo or J&J Ottava take >10% of the soft-tissue market by 2028 *and* compress ISRG's pricing power on consumables, the ISRG mansion thesis weakens.
 
-7. **Symbotic-Walmart relationship reprices.** If Walmart slows or renegotiates the deployment cadence, SYM rerates 40%+ down. (Risk-managed via satellite sizing.)
+7. **Symbotic-Walmart relationship reprices.** The January 2025 acquisition of Walmart's Advanced Systems and Robotics business + the 400-APD deployment commitment funded with $520M materially deepens the partnership and de-risks the prior "single customer" framing. However, the concentration remains: if Walmart slows or renegotiates the APD cadence, SYM still rerates sharply down. Satellite sizing (1.4% of book) preserves the asymmetry.
 
 8. **Defense procurement reshuffle.** A major shift in US Replicator / Tactical Autonomy funding could hit AVAV/KTOS materially.
 
@@ -815,7 +839,7 @@ Concrete things to watch for that would falsify the Physical AI investment thesi
 | **Middle** | AXON | $15,000 |
 | **Middle** | NXPI | $15,000 |
 | **Middle** | ZBRA | $11,000 |
-| **Middle** | HON | $10,000 |
+| **Middle** | DAIFY | $10,000 |
 | **Satellite** | SYM | $7,000 |
 | **Satellite** | AVAV | $6,000 |
 | **Satellite** | ALGM | $5,000 |
@@ -839,3 +863,34 @@ If Physical AI becomes a major investable wave over the next decade, public-mark
 They will *probably not* make money buying generic humanoid OEM stories at 2024–2026 vintage valuations. The single best protection against the humanoid hype cycle is to own the layers humanoids cannot exist without — and let the OEMs prove their economics on someone else's capital.
 
 — *End of report.*
+
+---
+
+## Sources (key primary references used in the 2026 update)
+
+- [NVIDIA Q1 FY27 8-K and FY26 10-K](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810&type=10-K&dateb=&owner=include&count=40)
+- [Intuitive Surgical FY2026 Q1 8-K earnings release](https://www.sec.gov/Archives/edgar/data/0001035267/000103526726000029/q126ex-991earningsrelease.htm)
+- [ABB to divest Robotics division to SoftBank Group](https://new.abb.com/news/detail/129685/abb-to-divest-robotics-division-to-softbank-group)
+- [ABB Group sells ABB Robotics to SoftBank for $5.375B — The Robot Report](https://www.therobotreport.com/abb-group-sells-abb-robotics-softbank-5-3b/)
+- [Siemens AG Q2 FY 2026 press release](https://press.siemens.com/global/en/pressrelease/earnings-release-and-financial-results-q1-fy-2026)
+- [Keysight Q2 FY 2026 results — Business Wire](https://www.businesswire.com/news/home/20260519234500/en/Keysight-Technologies-Reports-Second-Quarter-2026-Results)
+- [Cognex Q1 2026 8-K earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0000851205/000085120526000037/a04052026-xex991xq12026ear.htm)
+- [Rockwell Automation Q2 FY26 8-K](https://www.sec.gov/Archives/edgar/data/0001024478/000102447826000020/q2fy26ex99.htm)
+- [Honeywell agreement to sell Warehouse and Workflow Solutions to American Industrial Partners](https://www.stocktitan.net/news/HON/american-industrial-partners-to-acquire-honeywell-s-warehouse-and-140qe1syksm4.html)
+- [Symbotic to acquire Walmart's Advanced Systems and Robotics business (Jan 2025)](https://www.globenewswire.com/news-release/2025/01/16/3010641/0/en/Symbotic-to-Acquire-Walmart-s-Advanced-Systems-and-Robotics-Business-and-Sign-Related-Commercial-Agreement.html)
+- [Symbotic Q2 FY26 results — Stocktitan](https://www.stocktitan.net/news/SYM/symbotic-reports-second-quarter-fiscal-year-2026-uc7ef87gezqw.html)
+- [AeroVironment to Acquire BlueHalo (FY26 10-Q references)](https://bluehalo.com/aerovironment-to-acquire-bluehalo/)
+- [AeroVironment FY26 Q2 results](https://www.businesswire.com/news/home/20251209174379/en/AeroVironment-Announces-Fiscal-2026-Second-Quarter-Results)
+- [Axon Q1 2026 8-K earnings release (SEC)](https://www.sec.gov/Archives/edgar/data/0001069183/000162828026031285/axon-20260506xex991.htm)
+- [Analog Devices Q1 FY26 results (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0000006281/000000628126000015/adi1q26exhibit991earnings.htm)
+- [Teradyne Q1 2026 robotics segment commentary — The Robot Report](https://www.therobotreport.com/teradyne-robotics-revenue-rises-start-2026/)
+- [Monolithic Power Q1 2026 8-K](https://www.stocktitan.net/sec-filings/MPWR/8-k-monolithic-power-systems-inc-reports-material-event-768e9bcd4f38.html)
+- [Hesai Q1 2026 results (SEC 6-K)](https://www.sec.gov/Archives/edgar/data/0001861737/000110465926063803/tm2615071d1_ex99-1.htm)
+- [Kratos 2026 revenue guidance — Seeking Alpha](https://seekingalpha.com/news/4588592-kratos-projects-1_7b-1_760b-2026-revenue-as-it-plans-40-valkyries-annually-by-early-2028)
+- [Allegro MicroSystems FY26 results (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0000866291/000119312526210309/algm-ex99_1.htm)
+- [Serve Robotics Q1 2026 results](https://www.globenewswire.com/news-release/2026/05/07/3290495/0/en/Serve-Robotics-Announces-First-Quarter-2026-Results-with-3X-Sequential-Revenue-Growth.html)
+- [NXP Semiconductors market data — Stockanalysis](https://stockanalysis.com/stocks/nxpi/market-cap/)
+- [Schneider Electric market data — Stockanalysis](https://stockanalysis.com/quote/otc/SBGSY/market-cap/)
+- [Yaskawa FY26 results — Globe and Mail](https://www.theglobeandmail.com/investing/markets/stocks/YASKY/pressreleases/35240625/yaskawa-electric-reports-steady-profit-growth-amid-revenue-dip/)
+- [Fanuc FY26 financial results — BigGo Finance](https://finance.biggo.com/news/jpx_tdnet_140120260123537752)
+- [Zebra Technologies Q1 2026 — Gurufocus](https://www.gurufocus.com/news/8850826/zbra-delivers-strong-q1-revenue-performance)
